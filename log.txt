@@ -1,0 +1,18 @@
+---------------------------------------------------------
+06:36:46 : Début des logs pour la premiére class...
+---------------------------------------------------------
+06:36:46 :  -> Un utilisateur s'est connecté.
+06:36:46 :  -> Un utilisateur à cliquer sur un lien.
+06:36:46 :  -> Un utilisateur s'est déconnecté.
+---------------------------------------------------------
+06:36:46 : Fin des logs pour la premiére class...
+---------------------------------------------------------
+---------------------------------------------------------
+06:36:46 : Début des logs pour la deuxiéme class...
+---------------------------------------------------------
+06:36:46 :  -> Un utilisateur s'est connecté.
+06:36:46 :  -> Un utilisateur à cliquer sur un lien.
+06:36:46 :  -> Un utilisateur s'est déconnecté.
+---------------------------------------------------------
+06:36:46 : Fin des logs pour la deuxiéme class...
+---------------------------------------------------------
